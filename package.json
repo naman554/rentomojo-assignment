@@ -29,7 +29,7 @@
     "fs": "0.0.1-security",
     "json2csv": "^4.4.1",
     "mongodb": "^3.2.2",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "node-gyp": "^3.8.0",
     "pm2-docker": "^2.1.0",
     "puppeteer": "^1.14.0",
